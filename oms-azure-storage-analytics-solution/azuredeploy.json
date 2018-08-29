@@ -68,7 +68,8 @@
                 "northcentralus",
                 "brazilsouth",
                 "uksouth",
-                "westcentralus"
+                "westcentralus",
+                "westus2"
             ],
             "metadata": {
                 "description": "Specify the Azure Region for your OMS Automation Account"
